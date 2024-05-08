@@ -34,6 +34,6 @@ Contributions are welcome! If you have any suggestions for improvement or would 
 
 This project is licensed under the [MIT License](LICENSE).
 
-**Author:** [Your Name](https://github.com/najibdevs)  
+**Author:** [Najib](https://github.com/najibdevs)  
 **Date:** May 8, 2024
 
