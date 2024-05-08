@@ -24,7 +24,7 @@ Welcome to my digital business card! This project showcases a simple business ca
 
 ## Live Demo
 
-Check out the business card [here]()
+Check out the business card [here](https://business-card-pearl-pi.vercel.app/)
 
 ## Contributing
 
@@ -34,6 +34,6 @@ Contributions are welcome! If you have any suggestions for improvement or would 
 
 This project is licensed under the [MIT License](LICENSE).
 
-### Developer: Najib
-### Date: 08/05/2024
+**Author:** [Your Name](https://github.com/najibdevs)  
+**Date:** May 8, 2024
 
